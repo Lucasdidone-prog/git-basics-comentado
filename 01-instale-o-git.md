@@ -17,7 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: teste explicação. -->
+Para que serve
+Interface visual (GUI): Mostra em uma tela organizada quais arquivos você alterou, o que foi adicionado ou removido.
+Dispensar o terminal: Permite salvar alterações (commits), enviar para a nuvem (push) e baixar atualizações (pull) apenas com cliques de mouse.
+Facilitar ramificações: Ajuda a criar e alternar entre diferentes versões do projeto (branches) de forma limpa.
+Gerenciar conflitos: Apresenta avisos visuais quando há choque de edições entre o seu código e o de outra pessoa.
 
 **Quando usar / observação:**
 

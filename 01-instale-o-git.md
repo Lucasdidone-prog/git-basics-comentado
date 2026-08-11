@@ -25,7 +25,8 @@ Gerenciar conflitos: Apresenta avisos visuais quando há choque de edições ent
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Agilidade no dia a dia: Para ver rapidamente quais linhas de código foram alteradas por meio de cores (verde e vermelho).
+Trabalho em equipe: Para baixar atualizações de colegas e resolver conflitos de arquivos com poucos cliques.
 
 ---
 
@@ -34,12 +35,14 @@ Gerenciar conflitos: Apresenta avisos visuais quando há choque de edições ent
 <https://mac.github.com>
 
 **Para que serve, e quando eu usaria:**
-
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+O GitHub Desktop para Mac é o aplicativo oficial com interface visual que conecta o seu computador Apple à sua conta do GitHub. Ele serve para você gerenciar o histórico do seu código por meio de botões e janelas, eliminando a necessidade de usar o Terminal do macOS.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Visualizar mudanças: Mostra lado a lado as linhas de código que você alterou, destacadas em verde (adicionadas) ou vermelho (removidas).
+Sincronizar projetos: Envia as atualizações do seu Mac para a nuvem (push) e baixa o trabalho dos seus colegas (pull) com apenas um clique.
+Trocar de versão: Permite criar e alternar entre ramificações de testes (branches) de forma totalmente visual.
+Organizar o histórico: Facilita a escrita de mensagens de salvamento (commits) de maneira organizada e limpa.
 
 ---
 
@@ -49,7 +52,7 @@ Gerenciar conflitos: Apresenta avisos visuais quando há choque de edições ent
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+O GitHub Desktop (disponível para Windows e macOS, com versões da comunidade para Linux) serve para gerenciar repositórios de código de forma totalmente visual, conectando o seu computador à nuvem do GitHub sem que você precise digitar comandos no terminal
 
 **Quando usar / observação:**
 

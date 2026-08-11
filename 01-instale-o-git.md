@@ -17,7 +17,7 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: teste explicação. -->
 
 **Quando usar / observação:**
 

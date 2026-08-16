@@ -19,11 +19,11 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Cria uma nova pasta com o nome que você escolher e já inicia um repositório Git zerado dentro dela.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar quando você quiser iniciar um projeto do zero, criando uma pasta nova que já comece monitorada pelo git
 
 ---
 
@@ -35,18 +35,18 @@ git clone [url]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Baixa uma cópia de um repositório que ja existe para o seu computador.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar quando precisar baixar para o seu computador um projeto que já existe e está salvo no GitHub.
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [x] 1. `git init [nome-do-projeto]`
+- [x] 2. `git clone [url]`
 
 ---
 

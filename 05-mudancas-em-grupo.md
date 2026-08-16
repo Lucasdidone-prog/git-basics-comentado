@@ -19,11 +19,13 @@ git branch
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+lista todas as branches locais que existem no seu computador e destaca qual delas você está usando no 
+momento.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar para listar as branches do seu computador e conferir em qual delas você está trabalhando no 
+momento.
 
 ---
 
@@ -35,11 +37,13 @@ git branch [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+cria uma nova branch local no seu projeto a partir do ponto exato onde você está no momento, sem mudar 
+você para dentro dela.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar quando você quiser criar um novo ramo de trabalho do zero para desenvolver um ajuste ou exercício 
+de forma isolada
 
 ---
 
@@ -51,11 +55,11 @@ git switch -c [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+cria uma nova branch e altera o seu terminal para dentro dela imediatamente em um único passo.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar quando você quiser criar uma branch nova e entrar nela imediatamente para começar a trabalhar
 
 ---
 
@@ -67,11 +71,12 @@ git merge [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+junta o histórico e as alterações da branch que você escolheu para dentro da branch onde você está no 
+terminal no momento.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar quando você terminar um trabalho quiser juntar essas alterações dentro da sua branch atual.
 
 ---
 
@@ -83,21 +88,21 @@ git branch -d [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+exclui uma branch local do seu computador.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Usar para deletar uma branch local que você já terminou e as alterações já foram salvas ou mescladas.
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git branch`
-- [ ] 2. `git branch [nome-do-branch]`
-- [ ] 3. `git switch -c [nome-do-branch]`
-- [ ] 4. `git merge [nome-do-branch]`
-- [ ] 5. `git branch -d [nome-do-branch]`
+- [x] 1. `git branch`
+- [x] 2. `git branch [nome-do-branch]`
+- [x] 3. `git switch -c [nome-do-branch]`
+- [x] 4. `git merge [nome-do-branch]`
+- [x] 5. `git branch -d [nome-do-branch]`
 
 ---
 
